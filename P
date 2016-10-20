@@ -1,0 +1,5 @@
+*****   Fragmentacion   *****
+Introduce un numero de 4 cifras
+2131
+la fragmentacion de 2131 es 2000, 100, 30 y 1
+BUILD SUCCESSFUL (total time: 3 seconds)
